@@ -7,6 +7,7 @@ import useAuth from './hooks/useAuth';
 import { ToastContainer, toast } from 'react-toastify';
 import { useTotalSupply, useMaxSupply } from './hooks/dataFetcher';
 import useMint from './hooks/useMint';
+import 'react-toastify/dist/ReactToastify.css';
 
 
 function App() {

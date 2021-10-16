@@ -1,5 +1,5 @@
 let Environment = {
-  kingsAddress: "0xcB16Dc5048E915B9e301b0A02BFd30CEE49f9816",
+  kingsAddress: "0x832De7fe8147e400476834193857Ab0C8B520779",
 };
 
 export default Environment;

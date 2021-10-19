@@ -141,7 +141,7 @@ function App() {
                   <button className="cusbtn" onClick={Mint}>Mint Now</button>
                 </div>
                 <div className="text-center mt-4">
-                  <h3 className="subtitle"> {supply} / {supplyMax}</h3>
+                  {/* <h3 className="subtitle"> {supply} / {supplyMax}</h3> */}
                 </div>
                 <div className="text-center mt-4">
                   <h3 className="subtitle">{price} ETH each</h3>
